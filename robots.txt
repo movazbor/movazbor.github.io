@@ -29,4 +29,4 @@ Disallow: */trackback
 Disallow: */feed
 Disallow: */comments
 
-Sitemap: http://movazbor.net/sitemap.xml
+Sitemap: /sitemap.xml
