@@ -1,25 +1,8 @@
 ---
 ---
 
-[Перайсці да змесціва](#content)
 
 [Movazbor](/)
-
-Меню і віджэты
-
-*   [Што такое Мовазбор?](/)
-*   [Артыкулы](/category/artykuly/)
-*   [Слоўнікі і інструменты](/category/slouniki/)
-*   [Спасылкі](/category/spasylki/)
-*   [Супрацоўніцтва](/category/supracounictva/)
-
-*   [Што такое Мовазбор?](/)
-*   [Артыкулы](/category/artykuly/)
-*   [Слоўнікі і інструменты](/category/slouniki/)
-*   [Спасылкі](/category/spasylki/)
-*   [Супрацоўніцтва](/category/supracounictva/)
-
-Search for:  
 
 Свежыя запісы
 -------------
