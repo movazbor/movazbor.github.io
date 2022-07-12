@@ -60,10 +60,3 @@ _Адсюль: [https://vk.com/adkazy](https://vk.com/adkazy)_
     Скарнік рыхтуе акадэмічны беларуска-рускі слоўнік. ![:)](/wp-includes/images/smilies/icon_smile.gif)
     
     [Дадаць каментар](/jak-shukac-peraklad-slou/?replytocom=2#respond)
-    
-
-
-Post navigation
----------------
-
-[Далей Наступны запіс: Пошук беларускай тэрміналогіі](/poshuk-terminalohii/)

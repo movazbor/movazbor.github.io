@@ -6,13 +6,3 @@ title: Спасылкі
 *   [](http://ruscorpora.ru/search-para-be.html)[Паралельны беларуска-руска-беларускі корпус на сайце Нацыянальнага корпусу рускай мовы](http://ruscorpora.ru/search-para-be.html)
 
 Апублікавана [11.01.201506.03.2017](/spasylki/)Аўтар [neoling](/author/neoling/)Рубрыкі [Спасылкі](/category/spasylki/)
-
-
-
-
-Post navigation
----------------
-
-[Назад Папярэдні запіс: Слоўнікі, даведнікі, моўныя інструменты](/slouniki/)
-
-[Далей Наступны запіс: Супрацоўніцтва](/supracounictva/)
