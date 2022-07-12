@@ -60,21 +60,8 @@ title: Слоўнікі, даведнікі, моўныя інструменты
 
 Апублікавана [11.01.201505.05.2017](/slouniki/)Аўтар [neoling](/author/neoling/)Рубрыкі [Слоўнікі і інструменты](/category/slouniki/)
 
-### Дадаць каментар [Адмяніць адказ](/slouniki/#respond)
 
-Ваш e-mail не будзе апублікаваны. Абавязковыя палі пазначаны \*
 
-Назва \* 
-
-E-mail \* 
-
-Сайт 
-
-Comment
-
-Можна выкарыстоўваць наступныя HTML\-тэгі і атрыбуты: `<a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong>`
-
-  
 
 Post navigation
 ---------------

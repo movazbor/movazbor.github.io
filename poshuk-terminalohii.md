@@ -57,21 +57,6 @@ _(дапоўнена 15.01.2015)_
 
 Апублікавана [11.01.201515.01.2015](/poshuk-terminalohii/)Аўтар [neoling](/author/neoling/)Рубрыкі [Артыкулы](/category/artykuly/)
 
-### Дадаць каментар [Адмяніць адказ](/poshuk-terminalohii/#respond)
-
-Ваш e-mail не будзе апублікаваны. Абавязковыя палі пазначаны \*
-
-Назва \* 
-
-E-mail \* 
-
-Сайт 
-
-Comment
-
-Можна выкарыстоўваць наступныя HTML\-тэгі і атрыбуты: `<a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong>`
-
-  
 
 Post navigation
 ---------------

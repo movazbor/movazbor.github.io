@@ -7,21 +7,8 @@ title: Спасылкі
 
 Апублікавана [11.01.201506.03.2017](/spasylki/)Аўтар [neoling](/author/neoling/)Рубрыкі [Спасылкі](/category/spasylki/)
 
-### Дадаць каментар [Адмяніць адказ](/spasylki/#respond)
 
-Ваш e-mail не будзе апублікаваны. Абавязковыя палі пазначаны \*
 
-Назва \* 
-
-E-mail \* 
-
-Сайт 
-
-Comment
-
-Можна выкарыстоўваць наступныя HTML\-тэгі і атрыбуты: `<a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong>`
-
-  
 
 Post navigation
 ---------------

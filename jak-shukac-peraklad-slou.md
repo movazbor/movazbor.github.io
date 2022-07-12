@@ -62,21 +62,6 @@ _Адсюль: [https://vk.com/adkazy](https://vk.com/adkazy)_
     [Дадаць каментар](/jak-shukac-peraklad-slou/?replytocom=2#respond)
     
 
-### Дадаць каментар [Адмяніць адказ](/jak-shukac-peraklad-slou/#respond)
-
-Ваш e-mail не будзе апублікаваны. Абавязковыя палі пазначаны \*
-
-Назва \* 
-
-E-mail \* 
-
-Сайт 
-
-Comment
-
-Можна выкарыстоўваць наступныя HTML\-тэгі і атрыбуты: `<a href="" title=""> <abbr title=""> <acronym title=""> <b> <blockquote cite=""> <cite> <code> <del datetime=""> <em> <i> <q cite=""> <strike> <strong>`
-
-  
 
 Post navigation
 ---------------
