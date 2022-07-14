@@ -28,8 +28,8 @@
 
           <nav>
             <a href="{{ site.baseurl }}/">Што такое Мовазбор?</a>
-            <a href="{{ site.baseurl }}/slouniki">Слоўнікі</a>
-            <a href="{{ site.baseurl }}/spasylki">Спасылкі</a>
+            <a href="{{ site.baseurl }}/slouniki">Слоўнікі і спасылкі</a>
+            <a href="{{ site.baseurl }}/zakanadaustva">Заканадаўства</a>
             <a href="{{ site.baseurl }}/supracounictva">Супрацоўніцтва</a>
           </nav>
         </header>
@@ -37,7 +37,14 @@
     </div>
 
     <div id="main" role="main" class="container">
-      {{ content }}
+      <article class="page">
+
+        <h1>{{ page.title }}</h1>
+      
+        <div class="entry">
+          {{ content }}
+        </div>
+      </article>
     </div>
 
     <div class="wrapper-footer">
