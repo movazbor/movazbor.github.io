@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Слоўнікі, даведнікі, моўныя інструменты
 ---
 
@@ -8,7 +9,7 @@ title: Слоўнікі, даведнікі, моўныя інструменты
 
 ### **Энцыклапедыі**
 
-*   Беларуская Энцыклапедыя: PDF – [Яндекс.Дыск](https://yadi.sk/d/fGdYXrnQdd6hn), [box.com](https://app.box.com/bielaruskaja-encyklapiedyja), [issuu](http://issuu.com/movazbor/docs); DjVu (вышэйшая якасць) – [торэнт-файл](http://files.knihi.com/Slounik/02/enc/Bielaruskaja_encyklapedyja.torrent)
+*   Беларуская Энцыклапедыя: PDF – [Яндекс.Дыск](https://yadi.sk/d/fGdYXrnQdd6hn), [box.com](https://app.box.com/bielaruskaja-encyklapiedyja), [issuu](http://issuu.com/movazbor/docs); DjVu (вышэйшая якасць) – [торэнт-файл](/assets/Bielaruskaja_encyklapedyja.torrent)
 *   [Матэматычная энцыклапедыя (частка – біяграфіі)](http://www.slounik.org/matematyka/)
 *   [Культуралогія](http://www.slounik.org/kulturalogia/)
 *   [Чалавек і грамадства](http://www.slounik.org/hramadstva/)
@@ -58,4 +59,5 @@ title: Слоўнікі, даведнікі, моўныя інструменты
 
 *   [Праграма праверкі арфаграфіі беларускай мовы для MS Word 2007/2010/2013](http://bnkorpus.info/download.html)
 
-Апублікавана [11.01.201505.05.2017](/slouniki/)Аўтар [neoling](/author/neoling/)Рубрыкі [Слоўнікі і інструменты](/category/slouniki/)
+
+*Апублікавана 05.05.2017 --- Аўтар neoling*

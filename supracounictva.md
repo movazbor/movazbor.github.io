@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Супрацоўніцтва
 ---
 
@@ -10,4 +11,4 @@ title: Супрацоўніцтва
 
 Webmoney: WMB (бел. рублі) – B170156386160, WMZ (долары) – Z123151942254, WMR (рас. рублі) – R400778918823
 
-Апублікавана [11.01.2015](/supracounictva/)Аўтар [neoling](/author/neoling/)Рубрыкі [Супрацоўніцтва](/category/supracounictva/)
+*Апублікавана 11.01.2015 --- Аўтар neoling*
